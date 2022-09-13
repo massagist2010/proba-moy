@@ -6,6 +6,9 @@ public class Main {
         byte proba = 127;
         double raznica = httpsmaster % proba;
         System.out.println(raznica);
+        int mayEyas = 1989;
+        System.out.println(mayEyas);
+
 
     }
 }
